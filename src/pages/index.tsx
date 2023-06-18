@@ -144,7 +144,7 @@ function useFilteredUsers() {
 function ShowcaseHeader() {
   return (
     <section className="margin-top--lg margin-bottom--lg text--center">
-      <Heading as="h1">AI Short</Heading>
+      <Heading as="h1">是Ai呀</Heading>
       <p>{DESCRIPTION}</p>
       <UserStatus />
     </section>
