@@ -100,6 +100,14 @@ const config = {
             "prompt,AI prompts，提示词",
         },
       ],
+      navbar: {
+        hideOnScroll: true,
+        title: "是AI呀",
+        logo: {
+          alt: "ChatGPT Shortcuts",
+          src: "img/logo.svg",
+        },
+      },
       footer: {
         style: "dark",
         copyright: `Copyright © ${new Date().getFullYear()} AiShort (ChatGPT Shortcut)`,
